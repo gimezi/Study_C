@@ -18,7 +18,7 @@ int main() {
     scanf("%d %d", &M, &N);
 
     // 크기가 MAX인 정수 배열 isPrime을 선언하고, 이 배열의 모든 요소를 0으로 초기화, 모든 숫자를 처음에는 소수로 간주
-    int isPrime[MAX] = {0}; 
+    int isPrime[MAX] = {0};
 
     // 0과 1은 소수가 아님
     isPrime[0] = isPrime[1] = 1;
