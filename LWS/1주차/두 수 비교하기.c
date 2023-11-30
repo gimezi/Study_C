@@ -1,4 +1,4 @@
-// 백준 1330 두 수 비교하기.
+// 백준 1330 두 수 비교하기
 #include <stdio.h>
 
 int main(void) {
